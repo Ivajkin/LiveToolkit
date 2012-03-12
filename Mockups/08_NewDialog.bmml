@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" measuredW="1297" measuredH="697" mockupW="1267" mockupH="673">
+  <controls>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TitleWindow" x="30" y="24" w="1267" h="673" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <dragger>true</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>LiveToolkit</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Accordion" x="1036" y="109" w="261" h="562" measuredW="150" measuredH="234" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Item%20One%0AItem%20Two%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0AItem%20Three%0AItem%20Four</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MenuBar" x="35" y="49" w="1236" h="29" measuredW="204" measuredH="29" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="30" y="80" w="1241" h="-1" measuredW="270" measuredH="29" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ScratchOut" x="45" y="130" w="921" h="506" measuredW="205" measuredH="107" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10667209</color>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="__group__" x="323" y="182" w="477" h="357" measuredW="477" measuredH="357" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="477" h="357" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="43">
+          <controlProperties>
+            <bottomheight>4</bottomheight>
+            <close>true</close>
+            <dragger>false</dragger>
+            <maximizeRestore>false</maximizeRestore>
+            <minimize>false</minimize>
+            <text>Creating%20new%20package</text>
+            <topheight>28</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="362" y="330" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="1" locked="false" isInGroup="43">
+          <controlProperties>
+            <href>09_NewDialog_LayerSetup%26bm%3B09_NewDialog_LayerSetup.bmml%26bm%3B09_NewDialog_LayerSetup.bmml%26bm%3B09_NewDialog_LayerSetup.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22655%2C488%2C706%2C515%22%20href%3D%2209_NewDialog_LayerSetup.bmml%22%20alt%3D%2209_NewDialog_LayerSetup%22%20id%3D%221%22/%3E</map>
+            <text>Next</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="411" y="330" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="2" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HelpButton" x="439" y="6" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="43"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ScratchOut" x="225" y="212" w="230" h="103" measuredW="205" measuredH="107" zOrder="4" locked="false" isInGroup="43">
+          <controlProperties>
+            <color>10667209</color>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="222" y="122" w="240" h="60" measuredW="240" measuredH="60" zOrder="5" locked="false" isInGroup="43">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="37" w="240" h="-1" measuredW="241" measuredH="23" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>C%3A%5CLiveEngine%5CLiveProjects%5CUnknown</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="1" w="110" h="21" measuredW="110" measuredH="21" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Package%20directory</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="144" y="0" w="67" h="27" measuredW="67" measuredH="27" zOrder="2" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Change</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="219" y="38" w="-1" h="-1" measuredW="91" measuredH="21" zOrder="6" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Package%20name</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="219" y="76" w="182" h="-1" measuredW="63" measuredH="27" zOrder="7" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Unknown</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Tree" x="0" y="76" w="200" h="281" measuredW="300" measuredH="225" zOrder="8" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>%5B-%5DMy%20PCs%0A%20%5B-%5D%20c%3A%0A%20%20F%20LiveEngine%0A%20%20%20F%20LiveProjects%0A%20%20f%20Programm%20Files%0A%20%20f%20Windows%0A%20%5B+%5D%20d%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="33" y="40" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="9" locked="false" isInGroup="43">
+          <controlProperties>
+            <text>Folders%20tree</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

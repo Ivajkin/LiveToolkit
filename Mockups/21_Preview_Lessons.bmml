@@ -9,7 +9,7 @@
         <text>LivePlatform%20--%20Unknown%20Preview</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="220" y="100" w="119" h="619" measuredW="119" measuredH="115" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="220" y="100" w="119" h="619" measuredW="120" measuredH="115" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Lesson_Name_1%0ALesson_Name_2%0ALesson_Name_3%0A......................</text>
       </controlProperties>
@@ -39,9 +39,9 @@
         <text>Quick%20translate</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tree" x="815" y="131" w="211" h="588" measuredW="300" measuredH="393" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tree" x="815" y="131" w="211" h="588" measuredW="300" measuredH="372" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%5B-%5D%20Lesson_Name_2%0A%20%5B+%5D%20Images%0A%20%5B-%5D%20Books%20%0A%20%20-%20Book_1%0A%20%20-%20Book_2%0A%20%5B-%5D%20Exersices%0A%20%20-%20Exercixe_1%0A%20%20-%20Exercise_2%0A%20%5B-%5D%20Exersices_Interactive%0A%20%20-%20Exercise_1%0A%20%20-%20Exercise_2%0A%20%5B-%5D%20Videos%0A%20%20-%20Video_1%0A%20%20-%20Video_2%0A%20%5B-%5D%20Audios%0A%20%20-%20Audio_1%0A%20%20-%20Audio_2</text>
+        <text>%20%5B+%5D%20Images%0A%20%5B-%5D%20Books%20%0A%20%20-%20Book_1%0A%20%20-%20Book_2%0A%20%5B-%5D%20Exersices%0A%20%20-%20Exercixe_1%0A%20%20-%20Exercise_2%0A%20%5B-%5D%20Exersices_Interactive%0A%20%20-%20Exercise_1%0A%20%20-%20Exercise_2%0A%20%5B-%5D%20Videos%0A%20%20-%20Video_1%0A%20%20-%20Video_2%0A%20%5B-%5D%20Audios%0A%20%20-%20Audio_1%0A%20%20-%20Audio_2</text>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="865" y="105" w="99" h="24" measuredW="99" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
